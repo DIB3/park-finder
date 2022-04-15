@@ -1,0 +1,33 @@
+*{
+    font-family: 'Exo 2', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+
+.BackgroundStyle{
+    background-image: linear-gradient(#FFF, #B5179E);
+    background-color: linear-gradient(#FFF, #B5179E);
+    background-size: cover;
+    background-repeat: no-repeat; /* Repeats vertically across the scree */
+    background-attachment: fixed;
+}
+
+.BackgroundGrey{
+    background-color: #FAFAFA;
+}
+
+.appBackgroundColor{
+    background: linear-gradient(90deg,#480CA8,#F72585);
+    color: white;
+    border: none;
+}
+
+.appBackgroundColor:hover{
+    color: #FFF
+}

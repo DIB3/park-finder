@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#header{
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(90deg,#480CA8,#F72585);
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+}

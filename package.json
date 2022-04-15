@@ -1,0 +1,22 @@
+{
+  "name": "onechaumi",
+  "version": "1.0.0",
+  "description": "ParkFinder is an application that help car drivers to reserve a place in car park ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maroc-YNOV-Campus/Onechaumi_MainRepo_Casablanca.git"
+  },
+  "author": "elmehdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maroc-YNOV-Campus/Onechaumi_MainRepo_Casablanca/issues"
+  },
+  "homepage": "https://github.com/Maroc-YNOV-Campus/Onechaumi_MainRepo_Casablanca#readme",
+  "dependencies": {
+    "firebase": "^8.6.5"
+  }
+}

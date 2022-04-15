@@ -1,0 +1,26 @@
+/* body{
+    background-image: linear-gradient(#FFF, #FF5757);
+    background-color: linear-gradient(#FFF, #FF5757);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+#btn-facebook{
+    background-color: #4267B2;
+    color: white;
+    width: 100%;
+}
+
+#btn-google{
+    background-color: #F9F9F9;
+    color: #525252;
+    width: 100%;
+}
+
+#btn-facebook:hover{
+    background-color: #2259c9;
+}
+
+#btn-google:hover{
+    background-color: #cecdcd;
+}

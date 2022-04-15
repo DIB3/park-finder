@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.border{
+    border: 1px solid black;
+}
+
+
+#sections{
+    width: 80%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 40px auto;
+}
+/* grey: F0F0F0 */
+.section{
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background-color: white;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin: 5px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    position: relative;
+    cursor: pointer;
+}
+.section h2{
+    font-size: 17px;
+    position: absolute;
+    top: 19px;
+    left: 100px;
+}
+
+
+.section img{
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+.BackgroundGrey{
+    background-color: #FAFAFA;
+}
